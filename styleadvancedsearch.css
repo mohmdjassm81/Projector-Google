@@ -1,0 +1,218 @@
+.menuicone {
+	width: 22px;
+	position: absolute;
+	top: 13px;
+	right: 74px;
+}
+
+
+.logoGoogle {
+	width: 100px;
+	position: absolute;
+	top: 13px;
+	left: 4px;
+}
+
+
+.Advanced{
+	font-size: 25px;
+	position: absolute;
+	top: 88px;
+	left: 64px;
+    color: rgb(241, 6, 65);
+}
+
+#Find{
+	font-size: 15px;
+	position: absolute;
+	top: 213px;
+	left: 64px;
+    font-size: 15px;
+}
+
+
+.Sinput {
+	display: block;
+	border: 1px solid #ddd;
+	color: rgba(0,0,0, 0.87);
+    height: 22px;
+	padding: 1px;
+	
+	width: 44%;
+	transition: box-shadow 100ms;
+	outline: none;
+
+    position: absolute;
+	top: 213px;
+	left: 224px;   }
+
+
+.Find2{
+    font-size: 15px;
+	position: absolute;
+	top: 213px; 
+    left: 844px; }
+
+
+
+
+
+
+    .a0 {font-size: 18px;
+        width: 222px;
+        position: absolute;
+        top: 166px;
+        left: 64px; }
+    
+    
+    
+    .a00{
+        font-size: 15px;
+        position: absolute;
+        top: 166px; 
+        left: 844px;  }
+    
+
+
+
+
+    
+
+
+.a2 {font-size: 15px;
+	width: 222px;
+	position: absolute;
+	top: 255px;
+	left: 64px; }
+
+
+
+.a3{
+    font-size: 15px;
+	position: absolute;
+	top: 255px; 
+    left: 844px;  }
+
+
+    .Sinput2 {
+        display: block;
+        border: 1px solid #ddd;
+        color: rgba(0,0,0, 0.87);
+        height: 22px;
+        padding: 1px;
+        
+        width: 44%;
+        transition: box-shadow 100ms;
+        outline: none;
+    
+        position: absolute;
+        top: 255px;
+        left: 224px;   }
+    
+
+
+
+
+
+
+
+        
+
+.a4 {font-size: 15px;
+	width: 222px;
+	position: absolute;
+	top: 293px;
+	left: 64px; }
+
+
+
+.a5{
+    font-size: 15px;
+	position: absolute;
+	top: 293px; 
+    left: 844px;  }
+
+
+    .Sinput3 {
+        display: block;
+        border: 1px solid #ddd;
+        color: rgba(0,0,0, 0.87);
+        height: 22px;
+        padding: 1px;
+        
+        width: 44%;
+        transition: box-shadow 100ms;
+        outline: none;
+    
+        position: absolute;
+        top: 293px;
+        left: 224px;   }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+        .a6 {font-size: 15px;
+            width: 222px;
+            position: absolute;
+            top: 331px;
+            left: 64px; }
+        
+        
+         .a7{
+            font-size: 15px;
+            position: absolute;
+            top: 331px; 
+            left: 844px; }
+        
+  .Sinput4 {
+                display: block;
+                border: 1px solid #ddd;
+                color: rgba(0,0,0, 0.87);
+               
+                padding: 1px;
+                height: 22px;
+                width: 44%;
+                transition: box-shadow 100ms;
+                outline: none;
+            
+                position: absolute;
+                top: 331px;
+                left: 224px;   }
+            
+
+
+.Advancedsearch{
+    font-size: 15px;
+    position: absolute;
+    top: 377px; 
+    left: 700px;
+color: rgb(244, 246, 252); 
+background-color: rgb(103, 103, 243);}
+
+
+
+
+#line{
+   
+    font-size: 15px;
+	position: absolute;
+	top: 213px; 
+    left: 8px;
+     }
+
+
+
+
